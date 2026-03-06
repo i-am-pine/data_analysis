@@ -4,7 +4,7 @@ For now there is my training with dataset from Kaggle which I chose for this pur
 - `chocolate_sales.ipynb` - data analysis with **Python:**  
 **pandas**, charts with **matplotlib** and **seaborn**, and function for assigning abc groups
 
-examples of charts:
+**_examples of charts:_**
 
 ![start page](./readme_images/country_performance.png)
 ![start page](./readme_images/monthly_revenue.png)
